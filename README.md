@@ -10,19 +10,19 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Daniel Gomes Rolando
+- Matricula:9262043
+- Proposta de projeto escolhida:Site sobre o João Guimarães Rosa/ Livros
+- Breve descrição sobre seu projeto:Fiz um site sobre o acervo do Guimarães Rosa e pretendo no futuro do projeto colocar mais autores
 
 
 ## Print do(s) wireframe(s) criado
 > Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar. 
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image.png)
 
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](image-1.png)
