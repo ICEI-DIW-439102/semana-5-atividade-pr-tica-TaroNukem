@@ -131,3 +131,49 @@ body {
     background-color: #e8dfcf;
     text-align: center;
 }
+
+@media (max-width: 768px) {
+.menu {
+    position: relative;
+    width: 100%;
+    height: auto;
+    border-right: none;
+}
+
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.principal {
+    margin-left: 200px;
+}
+
+.principal {
+    margin-left: 0;
+}
+
+.perfil {
+    display: flex;
+}
+
+.perfil {
+    flex-direction: column;
+    text-align: center;
+}
+
+.lista-livros {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.lista-livros {
+    grid-template-columns: 1fr;
+}
+
+.banner img {
+    height: 180px;
+}
+
+
+}
